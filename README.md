@@ -1,37 +1,20 @@
-# CUFE Economic Data Science
 
-#### 介绍
-Economic Data Science at CUFE
+# Economic Data Science
 
-#### 软件架构
-软件架构说明
+## Introduction
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+Economic Data Science is a short course that introduces advanced undergraduate students to the data science methods used widely in economic analysis. The course covers data collection and cleaning, data visualization and exploration, big data and cloud computing, simulation-based econometric methods, and machine learning and prediction. The course aims to equip students with the skills and tools to apply data science techniques to real-world economic problems and to communicate their findings effectively.
 
 
-#### 特技
+### References
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+* Efron, Bradley and Hastie, Trevor (2016). Computer Age Statistical Inference: Algorithms, Evidence and Data Science (Open access at https://hastie.su.domains/CASI/)
+
+* Wei Lin, Zhentao Shi, Yishu Wang and Ting Hin Yan (2023): “Unfolding Beijing in a Hedonic Way,” Computational Economics, 61, 317–340.
+
+* Wickham, Hadley and Grolemund, Garrett (2016). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media, Inc. (Open access at https://r4ds.had.co.nz/)
+
+* Zhan Gao and Zhentao Shi (2021): “Implementing Convex Optimization in R: Two Econometric Examples,” Computational Economics, 58, 1127-1135.
+
+
+
