@@ -17,7 +17,7 @@ Economic Data Science is a short course that introduces advanced undergraduate s
 
 
 * [CUFE](https://zhxy.cufe.edu.cn/info/1027/2593.htm)
-* [Gitpod](https://gitpod.io/#https://gitee.com/ztshi/cufe-ds) based on [docker](https://hub.docker.com/r/ztshi/econ_data_sci/tags) provides a cloud-based collaborative virtual machine.
+* [Gitpod](https://gitpod.io/#https://github.com/zhentaoshi/CUFE_ds) based on [docker](https://hub.docker.com/r/ztshi/econ_data_sci/tags) provides a cloud-based collaborative virtual machine.
 
 
 ## References
