@@ -5,6 +5,12 @@
 
 Economic Data Science is a short course that introduces advanced undergraduate students to the data science methods used widely in economic analysis. The course covers data collection and cleaning, data visualization and exploration, big data and cloud computing, simulation-based econometric methods, and machine learning and prediction. The course aims to equip students with the skills and tools to apply data science techniques to real-world economic problems and to communicate their findings effectively.
 
+## Topics
+
+1. Infrastructure for data science
+2. Simulation, integration, and optimization
+3. Machine learning methods
+
 
 ### References
 
