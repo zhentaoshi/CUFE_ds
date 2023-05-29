@@ -41,8 +41,6 @@ This work is licensed under
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-[Reflection from Paul Romer](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/) on Jupyter notebook and open-source science.
-
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
